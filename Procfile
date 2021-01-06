@@ -1,1 +1,1 @@
-web: fdai.herokuapp.com npm run start
+web: herokuAddr=fdai.herokuapp.com npm run start
